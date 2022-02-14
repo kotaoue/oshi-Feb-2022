@@ -3,8 +3,7 @@ The presentation of OSHI in Feb 2022.
 
 ## Usage
 ```
-marp main.md
-open main.html
+marp main.md;open main.html
 ```
 
 ## Reference
